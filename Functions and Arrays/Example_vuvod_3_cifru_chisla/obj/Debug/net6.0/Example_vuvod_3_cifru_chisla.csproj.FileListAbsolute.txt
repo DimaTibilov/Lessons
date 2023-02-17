@@ -1,0 +1,15 @@
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_vuvod_3_cifru_chisla\bin\Debug\net6.0\Example_vuvod_3_cifru_chisla.exe
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_vuvod_3_cifru_chisla\bin\Debug\net6.0\Example_vuvod_3_cifru_chisla.deps.json
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_vuvod_3_cifru_chisla\bin\Debug\net6.0\Example_vuvod_3_cifru_chisla.runtimeconfig.json
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_vuvod_3_cifru_chisla\bin\Debug\net6.0\Example_vuvod_3_cifru_chisla.dll
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_vuvod_3_cifru_chisla\bin\Debug\net6.0\Example_vuvod_3_cifru_chisla.pdb
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_vuvod_3_cifru_chisla\obj\Debug\net6.0\Example_vuvod_3_cifru_chisla.csproj.AssemblyReference.cache
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_vuvod_3_cifru_chisla\obj\Debug\net6.0\Example_vuvod_3_cifru_chisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_vuvod_3_cifru_chisla\obj\Debug\net6.0\Example_vuvod_3_cifru_chisla.AssemblyInfoInputs.cache
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_vuvod_3_cifru_chisla\obj\Debug\net6.0\Example_vuvod_3_cifru_chisla.AssemblyInfo.cs
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_vuvod_3_cifru_chisla\obj\Debug\net6.0\Example_vuvod_3_cifru_chisla.csproj.CoreCompileInputs.cache
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_vuvod_3_cifru_chisla\obj\Debug\net6.0\Example_vuvod_3_cifru_chisla.dll
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_vuvod_3_cifru_chisla\obj\Debug\net6.0\refint\Example_vuvod_3_cifru_chisla.dll
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_vuvod_3_cifru_chisla\obj\Debug\net6.0\Example_vuvod_3_cifru_chisla.pdb
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_vuvod_3_cifru_chisla\obj\Debug\net6.0\Example_vuvod_3_cifru_chisla.genruntimeconfig.cache
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_vuvod_3_cifru_chisla\obj\Debug\net6.0\ref\Example_vuvod_3_cifru_chisla.dll

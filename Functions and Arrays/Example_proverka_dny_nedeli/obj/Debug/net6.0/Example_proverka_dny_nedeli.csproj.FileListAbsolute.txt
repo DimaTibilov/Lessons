@@ -1,0 +1,15 @@
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_proverka_dny_nedeli\bin\Debug\net6.0\Example_proverka_dny_nedeli.exe
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_proverka_dny_nedeli\bin\Debug\net6.0\Example_proverka_dny_nedeli.deps.json
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_proverka_dny_nedeli\bin\Debug\net6.0\Example_proverka_dny_nedeli.runtimeconfig.json
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_proverka_dny_nedeli\bin\Debug\net6.0\Example_proverka_dny_nedeli.dll
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_proverka_dny_nedeli\bin\Debug\net6.0\Example_proverka_dny_nedeli.pdb
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_proverka_dny_nedeli\obj\Debug\net6.0\Example_proverka_dny_nedeli.csproj.AssemblyReference.cache
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_proverka_dny_nedeli\obj\Debug\net6.0\Example_proverka_dny_nedeli.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_proverka_dny_nedeli\obj\Debug\net6.0\Example_proverka_dny_nedeli.AssemblyInfoInputs.cache
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_proverka_dny_nedeli\obj\Debug\net6.0\Example_proverka_dny_nedeli.AssemblyInfo.cs
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_proverka_dny_nedeli\obj\Debug\net6.0\Example_proverka_dny_nedeli.csproj.CoreCompileInputs.cache
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_proverka_dny_nedeli\obj\Debug\net6.0\Example_proverka_dny_nedeli.dll
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_proverka_dny_nedeli\obj\Debug\net6.0\refint\Example_proverka_dny_nedeli.dll
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_proverka_dny_nedeli\obj\Debug\net6.0\Example_proverka_dny_nedeli.pdb
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_proverka_dny_nedeli\obj\Debug\net6.0\Example_proverka_dny_nedeli.genruntimeconfig.cache
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_proverka_dny_nedeli\obj\Debug\net6.0\ref\Example_proverka_dny_nedeli.dll

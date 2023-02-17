@@ -1,0 +1,15 @@
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_2_cifra_chisla\bin\Debug\net6.0\Example_2_cifra_chisla.exe
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_2_cifra_chisla\bin\Debug\net6.0\Example_2_cifra_chisla.deps.json
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_2_cifra_chisla\bin\Debug\net6.0\Example_2_cifra_chisla.runtimeconfig.json
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_2_cifra_chisla\bin\Debug\net6.0\Example_2_cifra_chisla.dll
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_2_cifra_chisla\bin\Debug\net6.0\Example_2_cifra_chisla.pdb
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_2_cifra_chisla\obj\Debug\net6.0\Example_2_cifra_chisla.csproj.AssemblyReference.cache
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_2_cifra_chisla\obj\Debug\net6.0\Example_2_cifra_chisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_2_cifra_chisla\obj\Debug\net6.0\Example_2_cifra_chisla.AssemblyInfoInputs.cache
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_2_cifra_chisla\obj\Debug\net6.0\Example_2_cifra_chisla.AssemblyInfo.cs
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_2_cifra_chisla\obj\Debug\net6.0\Example_2_cifra_chisla.csproj.CoreCompileInputs.cache
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_2_cifra_chisla\obj\Debug\net6.0\Example_2_cifra_chisla.dll
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_2_cifra_chisla\obj\Debug\net6.0\refint\Example_2_cifra_chisla.dll
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_2_cifra_chisla\obj\Debug\net6.0\Example_2_cifra_chisla.pdb
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_2_cifra_chisla\obj\Debug\net6.0\Example_2_cifra_chisla.genruntimeconfig.cache
+C:\C_sharp\Examples\Lessons\Functions and Arrays\Example_2_cifra_chisla\obj\Debug\net6.0\ref\Example_2_cifra_chisla.dll

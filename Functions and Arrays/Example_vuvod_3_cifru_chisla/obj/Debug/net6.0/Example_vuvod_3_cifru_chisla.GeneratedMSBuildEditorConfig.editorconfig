@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Example001
-build_property.ProjectDir = c:\C_sharp\Examples\Lessons\Practika_1\Example_bolsh_mensh\
+build_property.RootNamespace = Example_vuvod_3_cifru_chisla
+build_property.ProjectDir = c:\C_sharp\Examples\Lessons\Functions and Arrays\Example_vuvod_3_cifru_chisla\
