@@ -1,0 +1,15 @@
+C:\C_sharp\Examples\Lessons\Base_alg\Distance_in3d\obj\Debug\net6.0\Distance_in3d.csproj.AssemblyReference.cache
+C:\C_sharp\Examples\Lessons\Base_alg\Distance_in3d\obj\Debug\net6.0\Distance_in3d.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_sharp\Examples\Lessons\Base_alg\Distance_in3d\obj\Debug\net6.0\Distance_in3d.AssemblyInfoInputs.cache
+C:\C_sharp\Examples\Lessons\Base_alg\Distance_in3d\obj\Debug\net6.0\Distance_in3d.AssemblyInfo.cs
+C:\C_sharp\Examples\Lessons\Base_alg\Distance_in3d\obj\Debug\net6.0\Distance_in3d.csproj.CoreCompileInputs.cache
+C:\C_sharp\Examples\Lessons\Base_alg\Distance_in3d\bin\Debug\net6.0\Distance_in3d.exe
+C:\C_sharp\Examples\Lessons\Base_alg\Distance_in3d\bin\Debug\net6.0\Distance_in3d.deps.json
+C:\C_sharp\Examples\Lessons\Base_alg\Distance_in3d\bin\Debug\net6.0\Distance_in3d.runtimeconfig.json
+C:\C_sharp\Examples\Lessons\Base_alg\Distance_in3d\bin\Debug\net6.0\Distance_in3d.dll
+C:\C_sharp\Examples\Lessons\Base_alg\Distance_in3d\bin\Debug\net6.0\Distance_in3d.pdb
+C:\C_sharp\Examples\Lessons\Base_alg\Distance_in3d\obj\Debug\net6.0\Distance_in3d.dll
+C:\C_sharp\Examples\Lessons\Base_alg\Distance_in3d\obj\Debug\net6.0\refint\Distance_in3d.dll
+C:\C_sharp\Examples\Lessons\Base_alg\Distance_in3d\obj\Debug\net6.0\Distance_in3d.pdb
+C:\C_sharp\Examples\Lessons\Base_alg\Distance_in3d\obj\Debug\net6.0\Distance_in3d.genruntimeconfig.cache
+C:\C_sharp\Examples\Lessons\Base_alg\Distance_in3d\obj\Debug\net6.0\ref\Distance_in3d.dll
