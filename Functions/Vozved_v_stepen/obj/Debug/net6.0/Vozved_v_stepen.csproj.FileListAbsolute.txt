@@ -1,0 +1,15 @@
+C:\C_sharp\Examples\Lessons\Functions\Vozved_v_stepen\bin\Debug\net6.0\Vozved_v_stepen.exe
+C:\C_sharp\Examples\Lessons\Functions\Vozved_v_stepen\bin\Debug\net6.0\Vozved_v_stepen.deps.json
+C:\C_sharp\Examples\Lessons\Functions\Vozved_v_stepen\bin\Debug\net6.0\Vozved_v_stepen.runtimeconfig.json
+C:\C_sharp\Examples\Lessons\Functions\Vozved_v_stepen\bin\Debug\net6.0\Vozved_v_stepen.dll
+C:\C_sharp\Examples\Lessons\Functions\Vozved_v_stepen\bin\Debug\net6.0\Vozved_v_stepen.pdb
+C:\C_sharp\Examples\Lessons\Functions\Vozved_v_stepen\obj\Debug\net6.0\Vozved_v_stepen.csproj.AssemblyReference.cache
+C:\C_sharp\Examples\Lessons\Functions\Vozved_v_stepen\obj\Debug\net6.0\Vozved_v_stepen.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_sharp\Examples\Lessons\Functions\Vozved_v_stepen\obj\Debug\net6.0\Vozved_v_stepen.AssemblyInfoInputs.cache
+C:\C_sharp\Examples\Lessons\Functions\Vozved_v_stepen\obj\Debug\net6.0\Vozved_v_stepen.AssemblyInfo.cs
+C:\C_sharp\Examples\Lessons\Functions\Vozved_v_stepen\obj\Debug\net6.0\Vozved_v_stepen.csproj.CoreCompileInputs.cache
+C:\C_sharp\Examples\Lessons\Functions\Vozved_v_stepen\obj\Debug\net6.0\Vozved_v_stepen.dll
+C:\C_sharp\Examples\Lessons\Functions\Vozved_v_stepen\obj\Debug\net6.0\refint\Vozved_v_stepen.dll
+C:\C_sharp\Examples\Lessons\Functions\Vozved_v_stepen\obj\Debug\net6.0\Vozved_v_stepen.pdb
+C:\C_sharp\Examples\Lessons\Functions\Vozved_v_stepen\obj\Debug\net6.0\Vozved_v_stepen.genruntimeconfig.cache
+C:\C_sharp\Examples\Lessons\Functions\Vozved_v_stepen\obj\Debug\net6.0\ref\Vozved_v_stepen.dll

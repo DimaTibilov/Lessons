@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Vozved_v_stepen/1.0.0": {
+        "runtime": {
+          "Vozved_v_stepen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vozved_v_stepen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

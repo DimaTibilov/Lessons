@@ -1,0 +1,15 @@
+C:\C_sharp\Examples\Lessons\Functions\Write_to_file\obj\Debug\net6.0\Write_to_file.csproj.AssemblyReference.cache
+C:\C_sharp\Examples\Lessons\Functions\Write_to_file\obj\Debug\net6.0\Write_to_file.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_sharp\Examples\Lessons\Functions\Write_to_file\obj\Debug\net6.0\Write_to_file.AssemblyInfoInputs.cache
+C:\C_sharp\Examples\Lessons\Functions\Write_to_file\obj\Debug\net6.0\Write_to_file.AssemblyInfo.cs
+C:\C_sharp\Examples\Lessons\Functions\Write_to_file\obj\Debug\net6.0\Write_to_file.csproj.CoreCompileInputs.cache
+C:\C_sharp\Examples\Lessons\Functions\Write_to_file\bin\Debug\net6.0\Write_to_file.exe
+C:\C_sharp\Examples\Lessons\Functions\Write_to_file\bin\Debug\net6.0\Write_to_file.deps.json
+C:\C_sharp\Examples\Lessons\Functions\Write_to_file\bin\Debug\net6.0\Write_to_file.runtimeconfig.json
+C:\C_sharp\Examples\Lessons\Functions\Write_to_file\bin\Debug\net6.0\Write_to_file.dll
+C:\C_sharp\Examples\Lessons\Functions\Write_to_file\bin\Debug\net6.0\Write_to_file.pdb
+C:\C_sharp\Examples\Lessons\Functions\Write_to_file\obj\Debug\net6.0\Write_to_file.dll
+C:\C_sharp\Examples\Lessons\Functions\Write_to_file\obj\Debug\net6.0\refint\Write_to_file.dll
+C:\C_sharp\Examples\Lessons\Functions\Write_to_file\obj\Debug\net6.0\Write_to_file.pdb
+C:\C_sharp\Examples\Lessons\Functions\Write_to_file\obj\Debug\net6.0\Write_to_file.genruntimeconfig.cache
+C:\C_sharp\Examples\Lessons\Functions\Write_to_file\obj\Debug\net6.0\ref\Write_to_file.dll
