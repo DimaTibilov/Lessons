@@ -1,0 +1,15 @@
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Kolich_chetn_element_massiva\obj\Debug\net6.0\Kolich_chetn_element_massiva.csproj.AssemblyReference.cache
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Kolich_chetn_element_massiva\obj\Debug\net6.0\Kolich_chetn_element_massiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Kolich_chetn_element_massiva\obj\Debug\net6.0\Kolich_chetn_element_massiva.AssemblyInfoInputs.cache
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Kolich_chetn_element_massiva\obj\Debug\net6.0\Kolich_chetn_element_massiva.AssemblyInfo.cs
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Kolich_chetn_element_massiva\obj\Debug\net6.0\Kolich_chetn_element_massiva.csproj.CoreCompileInputs.cache
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Kolich_chetn_element_massiva\bin\Debug\net6.0\Kolich_chetn_element_massiva.exe
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Kolich_chetn_element_massiva\bin\Debug\net6.0\Kolich_chetn_element_massiva.deps.json
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Kolich_chetn_element_massiva\bin\Debug\net6.0\Kolich_chetn_element_massiva.runtimeconfig.json
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Kolich_chetn_element_massiva\bin\Debug\net6.0\Kolich_chetn_element_massiva.dll
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Kolich_chetn_element_massiva\bin\Debug\net6.0\Kolich_chetn_element_massiva.pdb
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Kolich_chetn_element_massiva\obj\Debug\net6.0\Kolich_chetn_element_massiva.dll
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Kolich_chetn_element_massiva\obj\Debug\net6.0\refint\Kolich_chetn_element_massiva.dll
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Kolich_chetn_element_massiva\obj\Debug\net6.0\Kolich_chetn_element_massiva.pdb
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Kolich_chetn_element_massiva\obj\Debug\net6.0\Kolich_chetn_element_massiva.genruntimeconfig.cache
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Kolich_chetn_element_massiva\obj\Debug\net6.0\ref\Kolich_chetn_element_massiva.dll

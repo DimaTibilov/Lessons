@@ -1,0 +1,15 @@
+C:\C_sharp\Examples\Lessons\Dvumer_massiv\obj\Debug\net6.0\Dvumer_massiv.csproj.AssemblyReference.cache
+C:\C_sharp\Examples\Lessons\Dvumer_massiv\obj\Debug\net6.0\Dvumer_massiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_sharp\Examples\Lessons\Dvumer_massiv\obj\Debug\net6.0\Dvumer_massiv.AssemblyInfoInputs.cache
+C:\C_sharp\Examples\Lessons\Dvumer_massiv\obj\Debug\net6.0\Dvumer_massiv.AssemblyInfo.cs
+C:\C_sharp\Examples\Lessons\Dvumer_massiv\obj\Debug\net6.0\Dvumer_massiv.csproj.CoreCompileInputs.cache
+C:\C_sharp\Examples\Lessons\Dvumer_massiv\bin\Debug\net6.0\Dvumer_massiv.exe
+C:\C_sharp\Examples\Lessons\Dvumer_massiv\bin\Debug\net6.0\Dvumer_massiv.deps.json
+C:\C_sharp\Examples\Lessons\Dvumer_massiv\bin\Debug\net6.0\Dvumer_massiv.runtimeconfig.json
+C:\C_sharp\Examples\Lessons\Dvumer_massiv\bin\Debug\net6.0\Dvumer_massiv.dll
+C:\C_sharp\Examples\Lessons\Dvumer_massiv\bin\Debug\net6.0\Dvumer_massiv.pdb
+C:\C_sharp\Examples\Lessons\Dvumer_massiv\obj\Debug\net6.0\Dvumer_massiv.dll
+C:\C_sharp\Examples\Lessons\Dvumer_massiv\obj\Debug\net6.0\refint\Dvumer_massiv.dll
+C:\C_sharp\Examples\Lessons\Dvumer_massiv\obj\Debug\net6.0\Dvumer_massiv.pdb
+C:\C_sharp\Examples\Lessons\Dvumer_massiv\obj\Debug\net6.0\Dvumer_massiv.genruntimeconfig.cache
+C:\C_sharp\Examples\Lessons\Dvumer_massiv\obj\Debug\net6.0\ref\Dvumer_massiv.dll

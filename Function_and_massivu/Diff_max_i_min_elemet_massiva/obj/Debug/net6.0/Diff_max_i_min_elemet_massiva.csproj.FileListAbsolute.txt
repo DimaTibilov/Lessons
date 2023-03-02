@@ -1,0 +1,15 @@
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Diff_max_i_min_elemet_massiva\bin\Debug\net6.0\Diff_max_i_min_elemet_massiva.exe
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Diff_max_i_min_elemet_massiva\bin\Debug\net6.0\Diff_max_i_min_elemet_massiva.deps.json
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Diff_max_i_min_elemet_massiva\bin\Debug\net6.0\Diff_max_i_min_elemet_massiva.runtimeconfig.json
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Diff_max_i_min_elemet_massiva\bin\Debug\net6.0\Diff_max_i_min_elemet_massiva.dll
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Diff_max_i_min_elemet_massiva\bin\Debug\net6.0\Diff_max_i_min_elemet_massiva.pdb
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Diff_max_i_min_elemet_massiva\obj\Debug\net6.0\Diff_max_i_min_elemet_massiva.csproj.AssemblyReference.cache
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Diff_max_i_min_elemet_massiva\obj\Debug\net6.0\Diff_max_i_min_elemet_massiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Diff_max_i_min_elemet_massiva\obj\Debug\net6.0\Diff_max_i_min_elemet_massiva.AssemblyInfoInputs.cache
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Diff_max_i_min_elemet_massiva\obj\Debug\net6.0\Diff_max_i_min_elemet_massiva.AssemblyInfo.cs
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Diff_max_i_min_elemet_massiva\obj\Debug\net6.0\Diff_max_i_min_elemet_massiva.csproj.CoreCompileInputs.cache
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Diff_max_i_min_elemet_massiva\obj\Debug\net6.0\Diff_max_i_min_elemet_massiva.dll
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Diff_max_i_min_elemet_massiva\obj\Debug\net6.0\refint\Diff_max_i_min_elemet_massiva.dll
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Diff_max_i_min_elemet_massiva\obj\Debug\net6.0\Diff_max_i_min_elemet_massiva.pdb
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Diff_max_i_min_elemet_massiva\obj\Debug\net6.0\Diff_max_i_min_elemet_massiva.genruntimeconfig.cache
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Diff_max_i_min_elemet_massiva\obj\Debug\net6.0\ref\Diff_max_i_min_elemet_massiva.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Diff_max_i_min_elemet_massiva/1.0.0": {
+        "runtime": {
+          "Diff_max_i_min_elemet_massiva.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Diff_max_i_min_elemet_massiva/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

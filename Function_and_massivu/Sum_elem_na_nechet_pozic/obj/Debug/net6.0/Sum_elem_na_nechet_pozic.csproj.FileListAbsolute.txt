@@ -1,0 +1,15 @@
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Sum_elem_na_nechet_pozic\obj\Debug\net6.0\Sum_elem_na_nechet_pozic.csproj.AssemblyReference.cache
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Sum_elem_na_nechet_pozic\obj\Debug\net6.0\Sum_elem_na_nechet_pozic.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Sum_elem_na_nechet_pozic\obj\Debug\net6.0\Sum_elem_na_nechet_pozic.AssemblyInfoInputs.cache
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Sum_elem_na_nechet_pozic\obj\Debug\net6.0\Sum_elem_na_nechet_pozic.AssemblyInfo.cs
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Sum_elem_na_nechet_pozic\obj\Debug\net6.0\Sum_elem_na_nechet_pozic.csproj.CoreCompileInputs.cache
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Sum_elem_na_nechet_pozic\bin\Debug\net6.0\Sum_elem_na_nechet_pozic.exe
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Sum_elem_na_nechet_pozic\bin\Debug\net6.0\Sum_elem_na_nechet_pozic.deps.json
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Sum_elem_na_nechet_pozic\bin\Debug\net6.0\Sum_elem_na_nechet_pozic.runtimeconfig.json
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Sum_elem_na_nechet_pozic\bin\Debug\net6.0\Sum_elem_na_nechet_pozic.dll
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Sum_elem_na_nechet_pozic\bin\Debug\net6.0\Sum_elem_na_nechet_pozic.pdb
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Sum_elem_na_nechet_pozic\obj\Debug\net6.0\Sum_elem_na_nechet_pozic.dll
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Sum_elem_na_nechet_pozic\obj\Debug\net6.0\refint\Sum_elem_na_nechet_pozic.dll
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Sum_elem_na_nechet_pozic\obj\Debug\net6.0\Sum_elem_na_nechet_pozic.pdb
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Sum_elem_na_nechet_pozic\obj\Debug\net6.0\Sum_elem_na_nechet_pozic.genruntimeconfig.cache
+C:\C_sharp\Examples\Lessons\Function_and_massivu\Sum_elem_na_nechet_pozic\obj\Debug\net6.0\ref\Sum_elem_na_nechet_pozic.dll

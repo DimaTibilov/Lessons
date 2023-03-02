@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\C_sharp\\Examples\\Lessons\\Function_and_massivu\\Diff_max_i_min_elemet_massiva\\Diff_max_i_min_elemet_massiva.csproj": {}
+  },
+  "projects": {
+    "C:\\C_sharp\\Examples\\Lessons\\Function_and_massivu\\Diff_max_i_min_elemet_massiva\\Diff_max_i_min_elemet_massiva.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\C_sharp\\Examples\\Lessons\\Function_and_massivu\\Diff_max_i_min_elemet_massiva\\Diff_max_i_min_elemet_massiva.csproj",
+        "projectName": "Diff_max_i_min_elemet_massiva",
+        "projectPath": "C:\\C_sharp\\Examples\\Lessons\\Function_and_massivu\\Diff_max_i_min_elemet_massiva\\Diff_max_i_min_elemet_massiva.csproj",
+        "packagesPath": "C:\\Users\\nest\\.nuget\\packages\\",
+        "outputPath": "C:\\C_sharp\\Examples\\Lessons\\Function_and_massivu\\Diff_max_i_min_elemet_massiva\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nest\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

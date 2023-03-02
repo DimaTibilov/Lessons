@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sum_elem_na_nechet_pozic/1.0.0": {
+        "runtime": {
+          "Sum_elem_na_nechet_pozic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sum_elem_na_nechet_pozic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
