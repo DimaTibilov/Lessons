@@ -1,0 +1,15 @@
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Kolich_chisel_bolshe_nol\obj\Debug\net6.0\Kolich_chisel_bolshe_nol.csproj.AssemblyReference.cache
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Kolich_chisel_bolshe_nol\obj\Debug\net6.0\Kolich_chisel_bolshe_nol.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Kolich_chisel_bolshe_nol\obj\Debug\net6.0\Kolich_chisel_bolshe_nol.AssemblyInfoInputs.cache
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Kolich_chisel_bolshe_nol\obj\Debug\net6.0\Kolich_chisel_bolshe_nol.AssemblyInfo.cs
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Kolich_chisel_bolshe_nol\obj\Debug\net6.0\Kolich_chisel_bolshe_nol.csproj.CoreCompileInputs.cache
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Kolich_chisel_bolshe_nol\bin\Debug\net6.0\Kolich_chisel_bolshe_nol.exe
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Kolich_chisel_bolshe_nol\bin\Debug\net6.0\Kolich_chisel_bolshe_nol.deps.json
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Kolich_chisel_bolshe_nol\bin\Debug\net6.0\Kolich_chisel_bolshe_nol.runtimeconfig.json
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Kolich_chisel_bolshe_nol\bin\Debug\net6.0\Kolich_chisel_bolshe_nol.dll
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Kolich_chisel_bolshe_nol\bin\Debug\net6.0\Kolich_chisel_bolshe_nol.pdb
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Kolich_chisel_bolshe_nol\obj\Debug\net6.0\Kolich_chisel_bolshe_nol.dll
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Kolich_chisel_bolshe_nol\obj\Debug\net6.0\refint\Kolich_chisel_bolshe_nol.dll
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Kolich_chisel_bolshe_nol\obj\Debug\net6.0\Kolich_chisel_bolshe_nol.pdb
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Kolich_chisel_bolshe_nol\obj\Debug\net6.0\Kolich_chisel_bolshe_nol.genruntimeconfig.cache
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Kolich_chisel_bolshe_nol\obj\Debug\net6.0\ref\Kolich_chisel_bolshe_nol.dll

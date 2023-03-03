@@ -1,0 +1,15 @@
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Dots_line_cross\obj\Debug\net6.0\Dots_line_cross.csproj.AssemblyReference.cache
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Dots_line_cross\obj\Debug\net6.0\Dots_line_cross.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Dots_line_cross\obj\Debug\net6.0\Dots_line_cross.AssemblyInfoInputs.cache
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Dots_line_cross\obj\Debug\net6.0\Dots_line_cross.AssemblyInfo.cs
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Dots_line_cross\obj\Debug\net6.0\Dots_line_cross.csproj.CoreCompileInputs.cache
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Dots_line_cross\bin\Debug\net6.0\Dots_line_cross.exe
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Dots_line_cross\bin\Debug\net6.0\Dots_line_cross.deps.json
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Dots_line_cross\bin\Debug\net6.0\Dots_line_cross.runtimeconfig.json
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Dots_line_cross\bin\Debug\net6.0\Dots_line_cross.dll
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Dots_line_cross\bin\Debug\net6.0\Dots_line_cross.pdb
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Dots_line_cross\obj\Debug\net6.0\Dots_line_cross.dll
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Dots_line_cross\obj\Debug\net6.0\refint\Dots_line_cross.dll
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Dots_line_cross\obj\Debug\net6.0\Dots_line_cross.pdb
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Dots_line_cross\obj\Debug\net6.0\Dots_line_cross.genruntimeconfig.cache
+C:\C_sharp\Examples\Lessons\Odnomer_massivu\Dots_line_cross\obj\Debug\net6.0\ref\Dots_line_cross.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dots_line_cross/1.0.0": {
+        "runtime": {
+          "Dots_line_cross.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dots_line_cross/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
