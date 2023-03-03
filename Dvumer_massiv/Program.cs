@@ -64,7 +64,7 @@ for (int i=0; i < str; i++)
         array[i, j] = number;
         Console.Write(array[i, j]+ " ");
     }
-
+        Console.WriteLine("");
 }
 
  return array;
