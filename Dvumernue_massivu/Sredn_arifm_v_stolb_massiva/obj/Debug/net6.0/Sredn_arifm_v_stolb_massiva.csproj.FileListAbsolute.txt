@@ -1,0 +1,15 @@
+C:\C_sharp\Lessons\Dvumernue_massivu\Sredn_arifm_v_stolb_massiva\obj\Debug\net6.0\Sredn_arifm_v_stolb_massiva.csproj.AssemblyReference.cache
+C:\C_sharp\Lessons\Dvumernue_massivu\Sredn_arifm_v_stolb_massiva\obj\Debug\net6.0\Sredn_arifm_v_stolb_massiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_sharp\Lessons\Dvumernue_massivu\Sredn_arifm_v_stolb_massiva\obj\Debug\net6.0\Sredn_arifm_v_stolb_massiva.AssemblyInfoInputs.cache
+C:\C_sharp\Lessons\Dvumernue_massivu\Sredn_arifm_v_stolb_massiva\obj\Debug\net6.0\Sredn_arifm_v_stolb_massiva.AssemblyInfo.cs
+C:\C_sharp\Lessons\Dvumernue_massivu\Sredn_arifm_v_stolb_massiva\obj\Debug\net6.0\Sredn_arifm_v_stolb_massiva.csproj.CoreCompileInputs.cache
+C:\C_sharp\Lessons\Dvumernue_massivu\Sredn_arifm_v_stolb_massiva\bin\Debug\net6.0\Sredn_arifm_v_stolb_massiva.exe
+C:\C_sharp\Lessons\Dvumernue_massivu\Sredn_arifm_v_stolb_massiva\bin\Debug\net6.0\Sredn_arifm_v_stolb_massiva.deps.json
+C:\C_sharp\Lessons\Dvumernue_massivu\Sredn_arifm_v_stolb_massiva\bin\Debug\net6.0\Sredn_arifm_v_stolb_massiva.runtimeconfig.json
+C:\C_sharp\Lessons\Dvumernue_massivu\Sredn_arifm_v_stolb_massiva\bin\Debug\net6.0\Sredn_arifm_v_stolb_massiva.dll
+C:\C_sharp\Lessons\Dvumernue_massivu\Sredn_arifm_v_stolb_massiva\bin\Debug\net6.0\Sredn_arifm_v_stolb_massiva.pdb
+C:\C_sharp\Lessons\Dvumernue_massivu\Sredn_arifm_v_stolb_massiva\obj\Debug\net6.0\Sredn_arifm_v_stolb_massiva.dll
+C:\C_sharp\Lessons\Dvumernue_massivu\Sredn_arifm_v_stolb_massiva\obj\Debug\net6.0\refint\Sredn_arifm_v_stolb_massiva.dll
+C:\C_sharp\Lessons\Dvumernue_massivu\Sredn_arifm_v_stolb_massiva\obj\Debug\net6.0\Sredn_arifm_v_stolb_massiva.pdb
+C:\C_sharp\Lessons\Dvumernue_massivu\Sredn_arifm_v_stolb_massiva\obj\Debug\net6.0\Sredn_arifm_v_stolb_massiva.genruntimeconfig.cache
+C:\C_sharp\Lessons\Dvumernue_massivu\Sredn_arifm_v_stolb_massiva\obj\Debug\net6.0\ref\Sredn_arifm_v_stolb_massiva.dll

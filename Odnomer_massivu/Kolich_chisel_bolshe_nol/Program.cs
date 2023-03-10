@@ -44,7 +44,7 @@ int[] FillByUser(int size)
 
     for (int index = 0; index < array.Length; index++)
     {
-        System.Console.WriteLine($"Введите {index} число любого знака");
+        System.Console.WriteLine($"Введите {size} число любого знака");
         num = Convert.ToInt32(Console.ReadLine());
         array[index] = num;
 

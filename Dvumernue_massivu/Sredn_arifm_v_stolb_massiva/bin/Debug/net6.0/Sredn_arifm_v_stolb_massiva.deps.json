@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sredn_arifm_v_stolb_massiva/1.0.0": {
+        "runtime": {
+          "Sredn_arifm_v_stolb_massiva.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sredn_arifm_v_stolb_massiva/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

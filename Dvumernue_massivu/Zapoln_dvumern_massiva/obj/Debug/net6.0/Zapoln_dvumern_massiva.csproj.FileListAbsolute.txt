@@ -1,0 +1,15 @@
+C:\C_sharp\Lessons\Dvumernue_massivu\Zapoln_dvumern_massiva\obj\Debug\net6.0\Zapoln_dvumern_massiva.csproj.AssemblyReference.cache
+C:\C_sharp\Lessons\Dvumernue_massivu\Zapoln_dvumern_massiva\obj\Debug\net6.0\Zapoln_dvumern_massiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_sharp\Lessons\Dvumernue_massivu\Zapoln_dvumern_massiva\obj\Debug\net6.0\Zapoln_dvumern_massiva.AssemblyInfoInputs.cache
+C:\C_sharp\Lessons\Dvumernue_massivu\Zapoln_dvumern_massiva\obj\Debug\net6.0\Zapoln_dvumern_massiva.AssemblyInfo.cs
+C:\C_sharp\Lessons\Dvumernue_massivu\Zapoln_dvumern_massiva\obj\Debug\net6.0\Zapoln_dvumern_massiva.csproj.CoreCompileInputs.cache
+C:\C_sharp\Lessons\Dvumernue_massivu\Zapoln_dvumern_massiva\bin\Debug\net6.0\Zapoln_dvumern_massiva.exe
+C:\C_sharp\Lessons\Dvumernue_massivu\Zapoln_dvumern_massiva\bin\Debug\net6.0\Zapoln_dvumern_massiva.deps.json
+C:\C_sharp\Lessons\Dvumernue_massivu\Zapoln_dvumern_massiva\bin\Debug\net6.0\Zapoln_dvumern_massiva.runtimeconfig.json
+C:\C_sharp\Lessons\Dvumernue_massivu\Zapoln_dvumern_massiva\bin\Debug\net6.0\Zapoln_dvumern_massiva.dll
+C:\C_sharp\Lessons\Dvumernue_massivu\Zapoln_dvumern_massiva\bin\Debug\net6.0\Zapoln_dvumern_massiva.pdb
+C:\C_sharp\Lessons\Dvumernue_massivu\Zapoln_dvumern_massiva\obj\Debug\net6.0\Zapoln_dvumern_massiva.dll
+C:\C_sharp\Lessons\Dvumernue_massivu\Zapoln_dvumern_massiva\obj\Debug\net6.0\refint\Zapoln_dvumern_massiva.dll
+C:\C_sharp\Lessons\Dvumernue_massivu\Zapoln_dvumern_massiva\obj\Debug\net6.0\Zapoln_dvumern_massiva.pdb
+C:\C_sharp\Lessons\Dvumernue_massivu\Zapoln_dvumern_massiva\obj\Debug\net6.0\Zapoln_dvumern_massiva.genruntimeconfig.cache
+C:\C_sharp\Lessons\Dvumernue_massivu\Zapoln_dvumern_massiva\obj\Debug\net6.0\ref\Zapoln_dvumern_massiva.dll
