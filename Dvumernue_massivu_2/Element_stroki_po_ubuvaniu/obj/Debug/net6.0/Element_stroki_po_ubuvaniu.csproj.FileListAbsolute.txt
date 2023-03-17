@@ -1,0 +1,15 @@
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Element_stroki_po_ubuvaniu\obj\Debug\net6.0\Element_stroki_po_ubuvaniu.csproj.AssemblyReference.cache
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Element_stroki_po_ubuvaniu\obj\Debug\net6.0\Element_stroki_po_ubuvaniu.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Element_stroki_po_ubuvaniu\obj\Debug\net6.0\Element_stroki_po_ubuvaniu.AssemblyInfoInputs.cache
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Element_stroki_po_ubuvaniu\obj\Debug\net6.0\Element_stroki_po_ubuvaniu.AssemblyInfo.cs
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Element_stroki_po_ubuvaniu\obj\Debug\net6.0\Element_stroki_po_ubuvaniu.csproj.CoreCompileInputs.cache
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Element_stroki_po_ubuvaniu\bin\Debug\net6.0\Element_stroki_po_ubuvaniu.exe
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Element_stroki_po_ubuvaniu\bin\Debug\net6.0\Element_stroki_po_ubuvaniu.deps.json
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Element_stroki_po_ubuvaniu\bin\Debug\net6.0\Element_stroki_po_ubuvaniu.runtimeconfig.json
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Element_stroki_po_ubuvaniu\bin\Debug\net6.0\Element_stroki_po_ubuvaniu.dll
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Element_stroki_po_ubuvaniu\bin\Debug\net6.0\Element_stroki_po_ubuvaniu.pdb
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Element_stroki_po_ubuvaniu\obj\Debug\net6.0\Element_stroki_po_ubuvaniu.dll
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Element_stroki_po_ubuvaniu\obj\Debug\net6.0\refint\Element_stroki_po_ubuvaniu.dll
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Element_stroki_po_ubuvaniu\obj\Debug\net6.0\Element_stroki_po_ubuvaniu.pdb
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Element_stroki_po_ubuvaniu\obj\Debug\net6.0\Element_stroki_po_ubuvaniu.genruntimeconfig.cache
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Element_stroki_po_ubuvaniu\obj\Debug\net6.0\ref\Element_stroki_po_ubuvaniu.dll

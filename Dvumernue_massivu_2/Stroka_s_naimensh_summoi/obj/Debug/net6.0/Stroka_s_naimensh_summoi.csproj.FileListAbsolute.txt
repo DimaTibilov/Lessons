@@ -1,0 +1,15 @@
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Stroka_s_naimensh_summoi\bin\Debug\net6.0\Stroka_s_naimensh_summoi.exe
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Stroka_s_naimensh_summoi\bin\Debug\net6.0\Stroka_s_naimensh_summoi.deps.json
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Stroka_s_naimensh_summoi\bin\Debug\net6.0\Stroka_s_naimensh_summoi.runtimeconfig.json
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Stroka_s_naimensh_summoi\bin\Debug\net6.0\Stroka_s_naimensh_summoi.dll
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Stroka_s_naimensh_summoi\bin\Debug\net6.0\Stroka_s_naimensh_summoi.pdb
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Stroka_s_naimensh_summoi\obj\Debug\net6.0\Stroka_s_naimensh_summoi.csproj.AssemblyReference.cache
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Stroka_s_naimensh_summoi\obj\Debug\net6.0\Stroka_s_naimensh_summoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Stroka_s_naimensh_summoi\obj\Debug\net6.0\Stroka_s_naimensh_summoi.AssemblyInfoInputs.cache
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Stroka_s_naimensh_summoi\obj\Debug\net6.0\Stroka_s_naimensh_summoi.AssemblyInfo.cs
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Stroka_s_naimensh_summoi\obj\Debug\net6.0\Stroka_s_naimensh_summoi.csproj.CoreCompileInputs.cache
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Stroka_s_naimensh_summoi\obj\Debug\net6.0\Stroka_s_naimensh_summoi.dll
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Stroka_s_naimensh_summoi\obj\Debug\net6.0\refint\Stroka_s_naimensh_summoi.dll
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Stroka_s_naimensh_summoi\obj\Debug\net6.0\Stroka_s_naimensh_summoi.pdb
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Stroka_s_naimensh_summoi\obj\Debug\net6.0\Stroka_s_naimensh_summoi.genruntimeconfig.cache
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Stroka_s_naimensh_summoi\obj\Debug\net6.0\ref\Stroka_s_naimensh_summoi.dll

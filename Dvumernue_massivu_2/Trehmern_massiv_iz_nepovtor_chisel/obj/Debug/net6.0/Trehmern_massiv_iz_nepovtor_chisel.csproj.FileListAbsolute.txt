@@ -1,0 +1,15 @@
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Trehmern_massiv_iz_nepovtor_chisel\obj\Debug\net6.0\Trehmern_massiv_iz_nepovtor_chisel.csproj.AssemblyReference.cache
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Trehmern_massiv_iz_nepovtor_chisel\obj\Debug\net6.0\Trehmern_massiv_iz_nepovtor_chisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Trehmern_massiv_iz_nepovtor_chisel\obj\Debug\net6.0\Trehmern_massiv_iz_nepovtor_chisel.AssemblyInfoInputs.cache
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Trehmern_massiv_iz_nepovtor_chisel\obj\Debug\net6.0\Trehmern_massiv_iz_nepovtor_chisel.AssemblyInfo.cs
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Trehmern_massiv_iz_nepovtor_chisel\obj\Debug\net6.0\Trehmern_massiv_iz_nepovtor_chisel.csproj.CoreCompileInputs.cache
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Trehmern_massiv_iz_nepovtor_chisel\bin\Debug\net6.0\Trehmern_massiv_iz_nepovtor_chisel.exe
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Trehmern_massiv_iz_nepovtor_chisel\bin\Debug\net6.0\Trehmern_massiv_iz_nepovtor_chisel.deps.json
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Trehmern_massiv_iz_nepovtor_chisel\bin\Debug\net6.0\Trehmern_massiv_iz_nepovtor_chisel.runtimeconfig.json
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Trehmern_massiv_iz_nepovtor_chisel\bin\Debug\net6.0\Trehmern_massiv_iz_nepovtor_chisel.dll
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Trehmern_massiv_iz_nepovtor_chisel\bin\Debug\net6.0\Trehmern_massiv_iz_nepovtor_chisel.pdb
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Trehmern_massiv_iz_nepovtor_chisel\obj\Debug\net6.0\Trehmern_massiv_iz_nepovtor_chisel.dll
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Trehmern_massiv_iz_nepovtor_chisel\obj\Debug\net6.0\refint\Trehmern_massiv_iz_nepovtor_chisel.dll
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Trehmern_massiv_iz_nepovtor_chisel\obj\Debug\net6.0\Trehmern_massiv_iz_nepovtor_chisel.pdb
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Trehmern_massiv_iz_nepovtor_chisel\obj\Debug\net6.0\Trehmern_massiv_iz_nepovtor_chisel.genruntimeconfig.cache
+C:\C_sharp\Lessons\Dvumernue_massivu_2\Trehmern_massiv_iz_nepovtor_chisel\obj\Debug\net6.0\ref\Trehmern_massiv_iz_nepovtor_chisel.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Summa_natural_chisel_ot_M_do_N/1.0.0": {
+        "runtime": {
+          "Summa_natural_chisel_ot_M_do_N.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Summa_natural_chisel_ot_M_do_N/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

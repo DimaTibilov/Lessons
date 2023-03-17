@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Stroka_s_naimensh_summoi/1.0.0": {
+        "runtime": {
+          "Stroka_s_naimensh_summoi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stroka_s_naimensh_summoi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\C_sharp\Lessons\Recusia\Summa_natural_chisel_ot_M_do_N\obj\Debug\net6.0\Summa_natural_chisel_ot_M_do_N.csproj.AssemblyReference.cache
+C:\C_sharp\Lessons\Recusia\Summa_natural_chisel_ot_M_do_N\obj\Debug\net6.0\Summa_natural_chisel_ot_M_do_N.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_sharp\Lessons\Recusia\Summa_natural_chisel_ot_M_do_N\obj\Debug\net6.0\Summa_natural_chisel_ot_M_do_N.AssemblyInfoInputs.cache
+C:\C_sharp\Lessons\Recusia\Summa_natural_chisel_ot_M_do_N\obj\Debug\net6.0\Summa_natural_chisel_ot_M_do_N.AssemblyInfo.cs
+C:\C_sharp\Lessons\Recusia\Summa_natural_chisel_ot_M_do_N\obj\Debug\net6.0\Summa_natural_chisel_ot_M_do_N.csproj.CoreCompileInputs.cache
+C:\C_sharp\Lessons\Recusia\Summa_natural_chisel_ot_M_do_N\bin\Debug\net6.0\Summa_natural_chisel_ot_M_do_N.exe
+C:\C_sharp\Lessons\Recusia\Summa_natural_chisel_ot_M_do_N\bin\Debug\net6.0\Summa_natural_chisel_ot_M_do_N.deps.json
+C:\C_sharp\Lessons\Recusia\Summa_natural_chisel_ot_M_do_N\bin\Debug\net6.0\Summa_natural_chisel_ot_M_do_N.runtimeconfig.json
+C:\C_sharp\Lessons\Recusia\Summa_natural_chisel_ot_M_do_N\bin\Debug\net6.0\Summa_natural_chisel_ot_M_do_N.dll
+C:\C_sharp\Lessons\Recusia\Summa_natural_chisel_ot_M_do_N\bin\Debug\net6.0\Summa_natural_chisel_ot_M_do_N.pdb
+C:\C_sharp\Lessons\Recusia\Summa_natural_chisel_ot_M_do_N\obj\Debug\net6.0\Summa_natural_chisel_ot_M_do_N.dll
+C:\C_sharp\Lessons\Recusia\Summa_natural_chisel_ot_M_do_N\obj\Debug\net6.0\refint\Summa_natural_chisel_ot_M_do_N.dll
+C:\C_sharp\Lessons\Recusia\Summa_natural_chisel_ot_M_do_N\obj\Debug\net6.0\Summa_natural_chisel_ot_M_do_N.pdb
+C:\C_sharp\Lessons\Recusia\Summa_natural_chisel_ot_M_do_N\obj\Debug\net6.0\Summa_natural_chisel_ot_M_do_N.genruntimeconfig.cache
+C:\C_sharp\Lessons\Recusia\Summa_natural_chisel_ot_M_do_N\obj\Debug\net6.0\ref\Summa_natural_chisel_ot_M_do_N.dll
