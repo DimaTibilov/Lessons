@@ -24,19 +24,48 @@ int GetNumber(string text)
 //----------------------------------------------------
 //  Рекурсивный подсчет суммы чисел
 
-void NumberSum(int M, int N, int sum)
+// void NumberSum(int M, int N, int sum)
+// {
+
+//     sum = sum + N;
+//     if (N <= M)
+//     {
+//         Console.Write($"Сумма натуральных чисел  =  {sum} ");
+//         return;
+//     }
+
+//     NumberSum(M, N - 1, sum);
+
+// }
+
+
+// int NumberSum(int M, int N)
+// {
+// if (N <= M) return N;
+// return N + NumberSum(M, N - 1);
+// }
+
+//----------------------------------------------------------------------
+//  рекурсивный подсчет суммы чисел от М до N
+
+int NumberSum(int M, int N)
 {
     
-    sum = sum + N;
-    if (N <= M)
+    Console.WriteLine($":  M =   {M}    N =   {N}");
+    if (M >= N)
     {
-        Console.Write($"Сумма натуральных чисел  =  {sum} ");
-        return;
+        return M+1000;
     }
-
-    NumberSum(M, N - 1, sum);
+    else
+    {
     
+   Console.WriteLine(":  sum = " + M);
+return M + NumberSum(M + 1, N);
+    }
+    
+
 }
+//-------------------------------------------------
 
 //-----------------------------------------------------------------------
 //  основная программа
@@ -47,4 +76,6 @@ M = GetNumber("Введите натуральное число M");
 
 N = GetNumber("Введите натуральное число N");
 
-NumberSum(M, N, rezult);
+rezult = NumberSum(M, N);
+
+Console.WriteLine($"rezult =  {rezult} ");

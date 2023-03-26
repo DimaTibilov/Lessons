@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C_sharp\\Examples\\Lessons\\Dvumer_massiv\\Dvumer_massiv.csproj",
+      "projectUniqueName": "C:\\Copy_C_sharp\\C_sharp\\Lessons\\Dvumer_massiv\\Dvumer_massiv.csproj",
       "projectName": "Dvumer_massiv",
-      "projectPath": "C:\\C_sharp\\Examples\\Lessons\\Dvumer_massiv\\Dvumer_massiv.csproj",
+      "projectPath": "C:\\Copy_C_sharp\\C_sharp\\Lessons\\Dvumer_massiv\\Dvumer_massiv.csproj",
       "packagesPath": "C:\\Users\\nest\\.nuget\\packages\\",
-      "outputPath": "C:\\C_sharp\\Examples\\Lessons\\Dvumer_massiv\\obj\\",
+      "outputPath": "C:\\Copy_C_sharp\\C_sharp\\Lessons\\Dvumer_massiv\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nest\\AppData\\Roaming\\NuGet\\NuGet.Config"

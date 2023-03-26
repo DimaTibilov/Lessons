@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C_sharp\\Examples\\Lessons\\Odnomer_massivu\\Dots_line_cross\\Dots_line_cross.csproj": {}
+    "C:\\Copy_C_sharp\\C_sharp\\Lessons\\Odnomer_massivu\\Dots_line_cross\\Dots_line_cross.csproj": {}
   },
   "projects": {
-    "C:\\C_sharp\\Examples\\Lessons\\Odnomer_massivu\\Dots_line_cross\\Dots_line_cross.csproj": {
+    "C:\\Copy_C_sharp\\C_sharp\\Lessons\\Odnomer_massivu\\Dots_line_cross\\Dots_line_cross.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C_sharp\\Examples\\Lessons\\Odnomer_massivu\\Dots_line_cross\\Dots_line_cross.csproj",
+        "projectUniqueName": "C:\\Copy_C_sharp\\C_sharp\\Lessons\\Odnomer_massivu\\Dots_line_cross\\Dots_line_cross.csproj",
         "projectName": "Dots_line_cross",
-        "projectPath": "C:\\C_sharp\\Examples\\Lessons\\Odnomer_massivu\\Dots_line_cross\\Dots_line_cross.csproj",
+        "projectPath": "C:\\Copy_C_sharp\\C_sharp\\Lessons\\Odnomer_massivu\\Dots_line_cross\\Dots_line_cross.csproj",
         "packagesPath": "C:\\Users\\nest\\.nuget\\packages\\",
-        "outputPath": "C:\\C_sharp\\Examples\\Lessons\\Odnomer_massivu\\Dots_line_cross\\obj\\",
+        "outputPath": "C:\\Copy_C_sharp\\C_sharp\\Lessons\\Odnomer_massivu\\Dots_line_cross\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nest\\AppData\\Roaming\\NuGet\\NuGet.Config"
